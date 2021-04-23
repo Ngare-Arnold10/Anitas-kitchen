@@ -2,7 +2,7 @@
 ## Author
 Arnold Ngari
 ### Description
-the website contains more information  about the restaurant and its services.
+The website contains more information  about the restaurant and its services.
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
