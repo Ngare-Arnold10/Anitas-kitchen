@@ -50,7 +50,7 @@
 }
 #breakfast{
     width: 25%;
-    background-image:url(images/breakfast.jpg);
+    background-image:url(images/foodtop/breakfast.jpg);
     background-repeat: no-repeat;
     align-items: center;
     display: flex;
@@ -58,4 +58,26 @@
     font-style: italic;
     color: white;
     justify-content: center;
+}
+#lunch{
+    width: 25%;
+    background-repeat: no-repeat;
+    align-items: center;
+    display: flex;
+    font-size: 23px;
+    font-style: italic;
+    color: white;
+    justify-content: center;
+    background-image: url(images/foodtop/lunch.jpg);
+}
+#dinner{
+    background-repeat: no-repeat;
+    align-items: center;
+    display: flex;
+    font-size: 23px;
+    font-style: italic;
+    color: white;
+    justify-content: center;
+    width: 25%;
+    background-image: url(images/foodtop/dinner.jpg);
 }
