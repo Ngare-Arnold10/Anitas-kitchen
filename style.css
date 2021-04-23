@@ -41,3 +41,10 @@
     margin: 0px;
     border: whitesmoke 0px;
 }
+.partytime{
+    padding: 2px;
+    background-color: #F15E29;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
