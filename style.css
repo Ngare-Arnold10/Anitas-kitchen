@@ -48,3 +48,14 @@
     text-align: center;
     justify-content: center;
 }
+#breakfast{
+    width: 25%;
+    background-image:url(images/breakfast.jpg);
+    background-repeat: no-repeat;
+    align-items: center;
+    display: flex;
+    font-size: 23px;
+    font-style: italic;
+    color: white;
+    justify-content: center;
+}
