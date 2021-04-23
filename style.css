@@ -3,3 +3,11 @@
     padding: 2px;
     margin: 0px;
 }
+.front{
+    background-image: url(images/backgrounds/landing.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    margin-bottom: 2px;
+    background-repeat: no-repeat;
+}
