@@ -268,4 +268,83 @@
     width: 100%;
     height: auto;
 }
+.client-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 40%;
+    margin: 150px auto 150px auto;
+    border: whitesmoke 2px solid;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+.client-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 66.66%;
+    padding: 0 30px 30px 60px;
+}
+.about-section {
+    border-right: solid 1px gray;
+    height: 200px;
+    margin: 0 20px 0 20px;
+}
+.menu-about-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 33.33%;
+    padding: 0 40px 0 20px;
+}
+.about {
+    color: #f15a29;
+    font-size: 20px;
+}
+.about-comment {
+    font-size: 18px;
+}
+.information {
+    font-size: large;
+    color: #f15a29;
+}
+.feedback1 {
+    font-size: 18px;
+}
+.George {
+    font-size: 20px;
+}
+.pic1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.leftt {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+.rightt {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.rightt , .leftt {
+    border: solid #f15a29;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 0 0 10px 10px;
+
+}
+.arrowleft {
+    margin: 0 10px 0 0;
+}
+.arrowright {
+    margin: 0 0 0 10px;
+}
 
