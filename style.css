@@ -347,4 +347,46 @@
 .arrowright {
     margin: 0 0 0 10px;
 }
+#enroll{
+    background-image: url(images/backgrounds/subscribe.jpg);
+    margin-top: 0 auto;
+    display: flex;
+    width: 100%;
+    height: 250px;
+}
+#enroll-top{
+    align-items: center;
+    justify-content: center;
+    color: white;
+ }
+#email{
+    height: 50px;
+    width: 150px;
+    display: inline-flex;
+    align-self: center;
+}
+ .click{
+    height: 50px;
+    width: 150px;
+    align-self: center;
+    background-color: tomato;
+}
+#statuss{
+    background-color: #F15A29;
+    padding: 20px;
+}
+ 
+.logoo{
+    align-self: center;
+    text-align: center;
+    color: white;
+}
+#socialmedia{
+    text-align: center;
+    padding: 2px;
+    color: white;
+}
+.copyright {
+    margin: 10px 0 0 0;
+}
 
