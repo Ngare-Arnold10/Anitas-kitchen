@@ -19,6 +19,6 @@ https://github.com/Ngare-Arnold10/Anitas-kitchen.git
 1. CSS
 1. Git
 ### Live Site
-View [Live]( )
+View [Live](https://ngare-arnold10.github.io/Anitas-kitchen/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
